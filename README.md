@@ -1,2 +1,3 @@
-# egg
-# nand2tetris
+Collection of small projects completed in 2019. 
+
+
