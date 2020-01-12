@@ -252,9 +252,9 @@ namespace Bme121
 						}
 						sumRowUser[rowIndex] = userSum3; 
 					}
-                }
+                			}
             
-			}	
+		}	
             WriteLine( );
         }
     }
