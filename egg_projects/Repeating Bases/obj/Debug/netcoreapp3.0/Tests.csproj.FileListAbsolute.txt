@@ -1,0 +1,33 @@
+C:\Users\andre\OneDrive\Desktop\Tests\Assignment1\obj\Debug\netcoreapp3.0\Tests.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\Tests\Assignment1\obj\Debug\netcoreapp3.0\Tests.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\Tests\Assignment1\obj\Debug\netcoreapp3.0\Tests.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\Tests\Assignment1\bin\Debug\netcoreapp3.0\Tests.exe
+C:\Users\andre\OneDrive\Desktop\Tests\Assignment1\bin\Debug\netcoreapp3.0\Tests.deps.json
+C:\Users\andre\OneDrive\Desktop\Tests\Assignment1\bin\Debug\netcoreapp3.0\Tests.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\Tests\Assignment1\bin\Debug\netcoreapp3.0\Tests.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Desktop\Tests\Assignment1\bin\Debug\netcoreapp3.0\Tests.dll
+C:\Users\andre\OneDrive\Desktop\Tests\Assignment1\bin\Debug\netcoreapp3.0\Tests.pdb
+C:\Users\andre\OneDrive\Desktop\Tests\Assignment1\obj\Debug\netcoreapp3.0\Tests.dll
+C:\Users\andre\OneDrive\Desktop\Tests\Assignment1\obj\Debug\netcoreapp3.0\Tests.pdb
+C:\Users\andre\Documents\BME121\WeeklyAssignments\wa2\obj\Debug\netcoreapp3.0\Tests.csprojAssemblyReference.cache
+C:\Users\andre\Documents\BME121\WeeklyAssignments\wa2\obj\Debug\netcoreapp3.0\Tests.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\BME121\WeeklyAssignments\wa2\obj\Debug\netcoreapp3.0\Tests.AssemblyInfo.cs
+C:\Users\andre\Documents\BME121\WeeklyAssignments\wa2\obj\Debug\netcoreapp3.0\Tests.dll
+C:\Users\andre\Documents\BME121\WeeklyAssignments\wa2\obj\Debug\netcoreapp3.0\Tests.pdb
+C:\Users\andre\Documents\BME121\WeeklyAssignments\wa2\bin\Debug\netcoreapp3.0\Tests.exe
+C:\Users\andre\Documents\BME121\WeeklyAssignments\wa2\bin\Debug\netcoreapp3.0\Tests.deps.json
+C:\Users\andre\Documents\BME121\WeeklyAssignments\wa2\bin\Debug\netcoreapp3.0\Tests.runtimeconfig.json
+C:\Users\andre\Documents\BME121\WeeklyAssignments\wa2\bin\Debug\netcoreapp3.0\Tests.runtimeconfig.dev.json
+C:\Users\andre\Documents\BME121\WeeklyAssignments\wa2\bin\Debug\netcoreapp3.0\Tests.dll
+C:\Users\andre\Documents\BME121\WeeklyAssignments\wa2\bin\Debug\netcoreapp3.0\Tests.pdb
+C:\Users\Andrew Guo\Documents\BME121\BME121\WeeklyAssignments\wa2\bin\Debug\netcoreapp3.0\Tests.exe
+C:\Users\Andrew Guo\Documents\BME121\BME121\WeeklyAssignments\wa2\bin\Debug\netcoreapp3.0\Tests.deps.json
+C:\Users\Andrew Guo\Documents\BME121\BME121\WeeklyAssignments\wa2\bin\Debug\netcoreapp3.0\Tests.runtimeconfig.json
+C:\Users\Andrew Guo\Documents\BME121\BME121\WeeklyAssignments\wa2\bin\Debug\netcoreapp3.0\Tests.runtimeconfig.dev.json
+C:\Users\Andrew Guo\Documents\BME121\BME121\WeeklyAssignments\wa2\bin\Debug\netcoreapp3.0\Tests.dll
+C:\Users\Andrew Guo\Documents\BME121\BME121\WeeklyAssignments\wa2\bin\Debug\netcoreapp3.0\Tests.pdb
+C:\Users\Andrew Guo\Documents\BME121\BME121\WeeklyAssignments\wa2\obj\Debug\netcoreapp3.0\Tests.csprojAssemblyReference.cache
+C:\Users\Andrew Guo\Documents\BME121\BME121\WeeklyAssignments\wa2\obj\Debug\netcoreapp3.0\Tests.AssemblyInfoInputs.cache
+C:\Users\Andrew Guo\Documents\BME121\BME121\WeeklyAssignments\wa2\obj\Debug\netcoreapp3.0\Tests.AssemblyInfo.cs
+C:\Users\Andrew Guo\Documents\BME121\BME121\WeeklyAssignments\wa2\obj\Debug\netcoreapp3.0\Tests.dll
+C:\Users\Andrew Guo\Documents\BME121\BME121\WeeklyAssignments\wa2\obj\Debug\netcoreapp3.0\Tests.pdb

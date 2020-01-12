@@ -1,0 +1,14 @@
+C:\Users\Andrew Guo\Documents\BME121\BME121\SixLaboursImageSharp\bin\Debug\netcoreapp3.0\SixLaboursImageSharp.exe
+C:\Users\Andrew Guo\Documents\BME121\BME121\SixLaboursImageSharp\bin\Debug\netcoreapp3.0\SixLaboursImageSharp.deps.json
+C:\Users\Andrew Guo\Documents\BME121\BME121\SixLaboursImageSharp\bin\Debug\netcoreapp3.0\SixLaboursImageSharp.runtimeconfig.json
+C:\Users\Andrew Guo\Documents\BME121\BME121\SixLaboursImageSharp\bin\Debug\netcoreapp3.0\SixLaboursImageSharp.runtimeconfig.dev.json
+C:\Users\Andrew Guo\Documents\BME121\BME121\SixLaboursImageSharp\bin\Debug\netcoreapp3.0\SixLaboursImageSharp.dll
+C:\Users\Andrew Guo\Documents\BME121\BME121\SixLaboursImageSharp\bin\Debug\netcoreapp3.0\SixLaboursImageSharp.pdb
+C:\Users\Andrew Guo\Documents\BME121\BME121\SixLaboursImageSharp\bin\Debug\netcoreapp3.0\SixLabors.Core.dll
+C:\Users\Andrew Guo\Documents\BME121\BME121\SixLaboursImageSharp\bin\Debug\netcoreapp3.0\SixLabors.ImageSharp.dll
+C:\Users\Andrew Guo\Documents\BME121\BME121\SixLaboursImageSharp\obj\Debug\netcoreapp3.0\SixLaboursImageSharp.csprojAssemblyReference.cache
+C:\Users\Andrew Guo\Documents\BME121\BME121\SixLaboursImageSharp\obj\Debug\netcoreapp3.0\SixLaboursImageSharp.AssemblyInfoInputs.cache
+C:\Users\Andrew Guo\Documents\BME121\BME121\SixLaboursImageSharp\obj\Debug\netcoreapp3.0\SixLaboursImageSharp.AssemblyInfo.cs
+C:\Users\Andrew Guo\Documents\BME121\BME121\SixLaboursImageSharp\obj\Debug\netcoreapp3.0\SixLaboursImageSharp.csproj.CopyComplete
+C:\Users\Andrew Guo\Documents\BME121\BME121\SixLaboursImageSharp\obj\Debug\netcoreapp3.0\SixLaboursImageSharp.dll
+C:\Users\Andrew Guo\Documents\BME121\BME121\SixLaboursImageSharp\obj\Debug\netcoreapp3.0\SixLaboursImageSharp.pdb

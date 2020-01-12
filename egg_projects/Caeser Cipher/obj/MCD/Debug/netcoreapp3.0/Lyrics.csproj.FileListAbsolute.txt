@@ -1,0 +1,11 @@
+C:\Users\Hassan Nahas\OneDrive\Documents\BME121_teaching\Review2019\Lyrics\bin\MCD\Debug\netcoreapp3.0\Lyrics.exe
+C:\Users\Hassan Nahas\OneDrive\Documents\BME121_teaching\Review2019\Lyrics\bin\MCD\Debug\netcoreapp3.0\Lyrics.deps.json
+C:\Users\Hassan Nahas\OneDrive\Documents\BME121_teaching\Review2019\Lyrics\bin\MCD\Debug\netcoreapp3.0\Lyrics.runtimeconfig.json
+C:\Users\Hassan Nahas\OneDrive\Documents\BME121_teaching\Review2019\Lyrics\bin\MCD\Debug\netcoreapp3.0\Lyrics.runtimeconfig.dev.json
+C:\Users\Hassan Nahas\OneDrive\Documents\BME121_teaching\Review2019\Lyrics\bin\MCD\Debug\netcoreapp3.0\Lyrics.dll
+C:\Users\Hassan Nahas\OneDrive\Documents\BME121_teaching\Review2019\Lyrics\bin\MCD\Debug\netcoreapp3.0\Lyrics.pdb
+C:\Users\Hassan Nahas\OneDrive\Documents\BME121_teaching\Review2019\Lyrics\obj\MCD\Debug\netcoreapp3.0\Lyrics.csprojAssemblyReference.cache
+C:\Users\Hassan Nahas\OneDrive\Documents\BME121_teaching\Review2019\Lyrics\obj\MCD\Debug\netcoreapp3.0\Lyrics.AssemblyInfoInputs.cache
+C:\Users\Hassan Nahas\OneDrive\Documents\BME121_teaching\Review2019\Lyrics\obj\MCD\Debug\netcoreapp3.0\Lyrics.AssemblyInfo.cs
+C:\Users\Hassan Nahas\OneDrive\Documents\BME121_teaching\Review2019\Lyrics\obj\MCD\Debug\netcoreapp3.0\Lyrics.dll
+C:\Users\Hassan Nahas\OneDrive\Documents\BME121_teaching\Review2019\Lyrics\obj\MCD\Debug\netcoreapp3.0\Lyrics.pdb

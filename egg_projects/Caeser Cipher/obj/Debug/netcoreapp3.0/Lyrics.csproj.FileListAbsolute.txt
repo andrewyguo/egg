@@ -1,0 +1,11 @@
+C:\Users\Andrew Guo\Documents\BME121\BME121\Labs\Lab12_Lyrics\obj\Debug\netcoreapp3.0\Lyrics.csprojAssemblyReference.cache
+C:\Users\Andrew Guo\Documents\BME121\BME121\Labs\Lab12_Lyrics\obj\Debug\netcoreapp3.0\Lyrics.AssemblyInfoInputs.cache
+C:\Users\Andrew Guo\Documents\BME121\BME121\Labs\Lab12_Lyrics\obj\Debug\netcoreapp3.0\Lyrics.AssemblyInfo.cs
+C:\Users\Andrew Guo\Documents\BME121\BME121\Labs\Lab12_Lyrics\bin\Debug\netcoreapp3.0\Lyrics.exe
+C:\Users\Andrew Guo\Documents\BME121\BME121\Labs\Lab12_Lyrics\bin\Debug\netcoreapp3.0\Lyrics.deps.json
+C:\Users\Andrew Guo\Documents\BME121\BME121\Labs\Lab12_Lyrics\bin\Debug\netcoreapp3.0\Lyrics.runtimeconfig.json
+C:\Users\Andrew Guo\Documents\BME121\BME121\Labs\Lab12_Lyrics\bin\Debug\netcoreapp3.0\Lyrics.runtimeconfig.dev.json
+C:\Users\Andrew Guo\Documents\BME121\BME121\Labs\Lab12_Lyrics\bin\Debug\netcoreapp3.0\Lyrics.dll
+C:\Users\Andrew Guo\Documents\BME121\BME121\Labs\Lab12_Lyrics\bin\Debug\netcoreapp3.0\Lyrics.pdb
+C:\Users\Andrew Guo\Documents\BME121\BME121\Labs\Lab12_Lyrics\obj\Debug\netcoreapp3.0\Lyrics.dll
+C:\Users\Andrew Guo\Documents\BME121\BME121\Labs\Lab12_Lyrics\obj\Debug\netcoreapp3.0\Lyrics.pdb
