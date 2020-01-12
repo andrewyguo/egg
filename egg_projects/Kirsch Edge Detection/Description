@@ -1,1 +1,1 @@
-Implemented a Kirsch Edge Detection algorithm in C# 
+Console application for image edge detection using the Kirsh operator. Implemented in C#. 
